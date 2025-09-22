@@ -73,8 +73,8 @@ Actualmente estoy construyendo mi portafolio y en búsqueda de oportunidades par
 
 
 ---
-💼 Experiencia Destacada
-📊 Pasantía - Portal de Empleo del Municipio de Lobería
+# 💼 Experiencia Destacada
+## 📊 Pasantía - Portal de Empleo del Municipio de Lobería
 
 Durante mi pasantía profesional participé en el desarrollo del Portal de Empleo del Municipio de Lobería, trabajando en la documentación, testing, diseño de base de datos y funcionalidades clave del sistema.
 
@@ -85,7 +85,7 @@ https://empleo.loberia.gob.ar
  
 ---
 
-🚲 Microservicios - App de Alquiler de Monopatines Eléctricos
+## 🚲 Microservicios - App de Alquiler de Monopatines Eléctricos
 
 Proyecto universitario desarrollado con Java Spring Boot, que implementa una arquitectura de microservicios para una plataforma de alquiler de monopatines eléctricos.
 
@@ -106,7 +106,7 @@ Java 17 · Spring Boot · Spring Data JPA · PostgreSQL · Eureka Server · Spri
 
 -📊 Servicio de Estadísticas
 
-##📌 Características principales:##
+** 📌 Características principales: **
 
 - CRUD para usuarios y monopatines
 
@@ -122,7 +122,7 @@ Java 17 · Spring Boot · Spring Data JPA · PostgreSQL · Eureka Server · Spri
 
 ---
 
-##🎬 SQL – Consultas de Videoclub##
+## 🎬 SQL – Consultas de Videoclub
 
 Base de datos en PostgreSQL que simula un videoclub, con más de 20 consultas SQL reales y orientadas a negocio.
 
@@ -136,7 +136,7 @@ Base de datos en PostgreSQL que simula un videoclub, con más de 20 consultas SQ
 
 - views.sql (vistas optimizadas para reportes)
 
-###📌 Aprendizaje:##
+** 📌 Aprendizaje: **
 
 - Consultas avanzadas con joins, agregaciones y condiciones
 
@@ -149,11 +149,11 @@ Base de datos en PostgreSQL que simula un videoclub, con más de 20 consultas SQ
 
 ---
 
-##👗 API REST de Inventario de Ropa##
+## 👗 API REST de Inventario de Ropa
 
 API RESTful en PHP con arquitectura MVC para la gestión de un inventario de prendas.
 
-###📌 Características:###
+** 📌 Características: **
 
 - CRUD de prendas
 
@@ -176,7 +176,7 @@ API RESTful en PHP con arquitectura MVC para la gestión de un inventario de pre
 
 ---
 
-## 📫 Contacto##
+## 📫 Contacto
 
 
 - 💼 LinkedIn: [www.linkedin.com/in/analiaburgos](www.linkedin.com/in/analiaburgos)
