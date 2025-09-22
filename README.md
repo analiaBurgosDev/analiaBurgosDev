@@ -70,7 +70,7 @@ Actualmente estoy construyendo mi portafolio y en búsqueda de oportunidades par
 -->
 ---
 
-## 💼 Featured Projects
+
 
 ---
 💼 Experiencia Destacada
@@ -81,9 +81,9 @@ Durante mi pasantía profesional participé en el desarrollo del Portal de Emple
 🔗 Visita el portal en : 
 https://empleo.loberia.gob.ar
 
-🔗 
+🔗 https://github.com/analiaBurgosDev/pasantiaMunicipio
  
-
+---
 
 🚲 Microservicios - App de Alquiler de Monopatines Eléctricos
 
