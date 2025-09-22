@@ -136,7 +136,7 @@ Base de datos en PostgreSQL que simula un videoclub, con más de 20 consultas SQ
 
 - views.sql (vistas optimizadas para reportes)
 
-** 📌 Aprendizaje: **
+**📌 Aprendizajes:**
 
 - Consultas avanzadas con joins, agregaciones y condiciones
 
@@ -153,7 +153,7 @@ Base de datos en PostgreSQL que simula un videoclub, con más de 20 consultas SQ
 
 API RESTful en PHP con arquitectura MVC para la gestión de un inventario de prendas.
 
-** 📌 Características: **
+**📌 Características:**
 
 - CRUD de prendas
 
