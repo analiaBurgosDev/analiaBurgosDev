@@ -94,82 +94,82 @@ Java 17 · Spring Boot · Spring Data JPA · PostgreSQL · Eureka Server · Spri
 
 🧩 Arquitectura:
 
-🚲 Servicio de Monopatines
+-🚲 Servicio de Monopatines
 
-👤 Servicio de Usuarios
+-👤 Servicio de Usuarios
 
-📍 Servicio de Ubicación
+-📍 Servicio de Ubicación
 
-🧾 Servicio de Alquiler
+-🧾 Servicio de Alquiler
 
-💳 Servicio de Pagos
+-💳 Servicio de Pagos
 
-📊 Servicio de Estadísticas
+-📊 Servicio de Estadísticas
 
-📌 Características principales:
+##📌 Características principales:
 
-CRUD para usuarios y monopatines
+- CRUD para usuarios y monopatines
 
-Lógica de alquiler y simulación de pagos
+- Lógica de alquiler y simulación de pagos
 
-APIs REST para cada servicio
+- APIs REST para cada servicio
 
-Preparado para contenedores (Docker-ready)
+- Preparado para contenedores (Docker-ready)
 
-Datos SQL de ejemplo para pruebas rápidas
+- Datos SQL de ejemplo para pruebas rápidas
 
-🔗 Ver Repositorio🔗 (https://github.com/Ayvero/Microservices_monopatines)
+🔗 Ver Repositorio🔗 (https://github.com/analiaBurgosDev/Microservices_monopatines)
 
 ---
 
-🎬 SQL – Consultas de Videoclub
+##🎬 SQL – Consultas de Videoclub
 
 Base de datos en PostgreSQL que simula un videoclub, con más de 20 consultas SQL reales y orientadas a negocio.
 
 📁 Incluye:
 
-create_tables.sql
+- create_tables.sql
 
-insert_data.sql (datos de ejemplo estructurados)
+- insert_data.sql (datos de ejemplo estructurados)
 
-queries.sql (consultas comentadas)
+- queries.sql (consultas comentadas)
 
-views.sql (vistas optimizadas para reportes)
+- views.sql (vistas optimizadas para reportes)
 
-📌 Highlights:
+###📌 Highlights:
 
-Consultas avanzadas con joins, agregaciones y condiciones
+- Consultas avanzadas con joins, agregaciones y condiciones
 
-Vistas para reportes de películas más alquiladas, clientes destacados y facturación por distribuidor
+- Vistas para reportes de películas más alquiladas, clientes destacados y facturación por distribuidor
 
-Esquema relacional limpio y normalizado
+- Esquema relacional limpio y normalizado
 
-🔗 Ver Repositorio🔗 (https://github.com/Ayvero/sql_videoclub_queries)
+🔗 Ver Repositorio🔗 (https://github.com/analiaBurgosDev/sql_videoclub_queries)
+
 
 ---
----
 
-👗 API REST de Inventario de Ropa
+##👗 API REST de Inventario de Ropa
 
 API RESTful en PHP con arquitectura MVC para la gestión de un inventario de prendas.
 
-📌 Características:
+###📌 Características:
 
-CRUD de prendas
+- CRUD de prendas
 
-Separación en Controladores, Modelos y Vistas
+- Separación en Controladores, Modelos y Vistas
 
-Base de datos MySQL integrada
+- Base de datos MySQL integrada
 
-Respuestas REST estructuradas
+- Respuestas REST estructuradas
 
-📌 Highlights:
+📌 aprendizaje:
 
-Ejemplo de backend más allá de Java
+- Ejemplo de backend más allá de Java
 
-Extensible con autenticación o integración frontend
+- Extensible con autenticación o integración frontend
 
-🔗 Ver Repositorio🔗 (https://github.com/Ayvero/api_rest)
+🔗 Ver Repositorio🔗 (https://github.com/analiaBurgosDev/api_rest)
 
 
 
