@@ -106,7 +106,7 @@ Java 17 · Spring Boot · Spring Data JPA · PostgreSQL · Eureka Server · Spri
 
 -📊 Servicio de Estadísticas
 
-** 📌 Características principales: **
+**📌 Características principales:**
 
 - CRUD para usuarios y monopatines
 
