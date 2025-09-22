@@ -9,13 +9,12 @@
 
 
 
-<h1 align="center" style="color:#2b1f51;">✨ ¡Hi! I'm Analía Burgos! ✨</h1>
+<h1 align="center" style="color:#2b1f51;">✨ ¡Hola! soy Analía Burgos! ✨</h1>
 
 
- ✨ ¡Hola! Soy Analía Burgos ✨
-👋 Sobre mí
 
-Soy una desarrolladora backend apasionada de Argentina.
+👋 Un poco sobre mí
+
 
 Recientemente me gradué de la carrera  TUDAI (Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas) en la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN).
 Mi formación académica y experiencia en proyectos me dieron una base sólida en el desarrollo backend, con foco en Java y bases de datos relacionales (SQL).
