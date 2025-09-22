@@ -12,25 +12,26 @@
 <h1 align="center" style="color:#2b1f51;">✨ ¡Hi! I'm Analía Burgos! ✨</h1>
 
 
-## 👋 About Me
+ ✨ ¡Hola! Soy Analía Burgos ✨
+👋 Sobre mí
 
-Hi there! I'm  a passionate backend developer from Argentina.
+Soy una desarrolladora backend apasionada de Argentina.
 
-I recently graduated from the **TUDAI program (University Degree in Mobile Application Development)** at the **National University of Central Buenos Aires (UNICEN)**.  
-My academic and project experience gave me a solid foundation in backend development, with a focus on **Java** and **relational databases (SQL)**.
+Recientemente me gradué de la carrera  TUDAI (Tecnicatura Universitaria en Desarrollo de Aplicaciones Informáticas) en la Universidad Nacional del Centro de la Provincia de Buenos Aires (UNICEN).
+Mi formación académica y experiencia en proyectos me dieron una base sólida en el desarrollo backend, con foco en Java y bases de datos relacionales (SQL).
 
-I enjoy designing clean, scalable systems and writing well-structured code that solves real problems.  
-Currently, I'm building my portfolio and looking for opportunities to grow as a backend developer, especially in Java-based environments.
+Disfruto diseñar sistemas limpios, escalables y escribir código bien estructurado que resuelva problemas reales.
+Actualmente estoy construyendo mi portafolio y en búsqueda de oportunidades para crecer como desarrolladora backend, especialmente en entornos basados en Java.
 
-Feel free to explore my projects below! 🚀
+¡Te invito a explorar mis proyectos! 🚀
  
 
 
 ---
 
-## 🛠️ Tech Stack
+🛠️ Stack Tecnológico
 
-**Languages:**  
+**Lenguajes:**  
 
 . ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white) 
 
@@ -39,7 +40,7 @@ Feel free to explore my projects below! 🚀
 . ![SQL](https://img.shields.io/badge/SQL-336791?style=flat&logo=postgresql&logoColor=white)
 
 
-**Tools & Frameworks:** 
+**Herramientas & Frameworks:** 
 
 . ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white) 
 
@@ -50,7 +51,7 @@ Feel free to explore my projects below! 🚀
 . ![DataGrip](https://img.shields.io/badge/DataGrip-000000?style=flat&logo=jetbrains&logoColor=white)
 
 
-**Version Control:**  
+**Control de versiones:**  
 
 . ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) 
 
@@ -73,94 +74,107 @@ Feel free to explore my projects below! 🚀
 ## 💼 Featured Projects
 
 ---
+💼 Experiencia Destacada
+📊 Pasantía - Portal de Empleo del Municipio de Lobería
 
-### 🚲 Microservices - Electric Scooter Rental App
+Durante mi pasantía profesional participé en el desarrollo del Portal de Empleo del Municipio de Lobería, trabajando en la documentación, testing, diseño de base de datos y funcionalidades clave del sistema.
 
-This is a university project built with **Java Spring Boot**, showcasing a **microservices-based architecture** for an electric scooter rental platform. It simulates a real-world application with multiple interconnected services.
+🔗 Visita el portal en : 
+https://empleo.loberia.gob.ar
 
-**🔧 Technologies:**  
+🔗 
+ 
+
+
+🚲 Microservicios - App de Alquiler de Monopatines Eléctricos
+
+Proyecto universitario desarrollado con Java Spring Boot, que implementa una arquitectura de microservicios para una plataforma de alquiler de monopatines eléctricos.
+
+🔧 Tecnologías:
 Java 17 · Spring Boot · Spring Data JPA · PostgreSQL · Eureka Server · Spring Cloud Gateway · Lombok
 
-**🧩 Architecture:**
-- 🚲 Scooter Service
-- 👤 User Service
-- 📍 Location Service
-- 🧾 Rental Service
-- 💳 Payment Service
-- 📊 Statistics Service
+🧩 Arquitectura:
 
-These services communicate via REST, managed through **Eureka (Service Discovery)** and an **API Gateway**.
+🚲 Servicio de Monopatines
 
-**📌 Key Features:**
-- CRUD operations for scooters and users  
-- Rental logic and basic payment simulation  
-- REST APIs for each service  
-- Designed for containerization (Docker-ready)  
-- Example SQL data for quick testing  
+👤 Servicio de Usuarios
 
-🔗 [View Repository](https://github.com/Ayvero/Microservices_monopatines)
+📍 Servicio de Ubicación
 
----
+🧾 Servicio de Alquiler
 
-### 🎬 SQL Videoclub Queries
+💳 Servicio de Pagos
 
-A comprehensive **PostgreSQL database project** simulating a video rental store with over 20 real-world SQL queries and insights.
+📊 Servicio de Estadísticas
 
-**🔧 Technologies:**  
-PostgreSQL · SQL · DataGrip
+📌 Características principales:
 
-**📁 Files included:**
-- `create_tables.sql`
-- `insert_data.sql` (sample, well-structured data)
-- `queries.sql` (commented and professional)
-- `views.sql` (optimized views for business intelligence)
+CRUD para usuarios y monopatines
 
-**📌 Highlights:**
-- Advanced queries with joins, aggregates, and conditions  
-- Views for reports like most rented movies, top clients, and revenue per distributor  
-- Clean relational schema (10+ tables, normalized structure)
+Lógica de alquiler y simulación de pagos
 
-🔗 [View Repository](https://github.com/Ayvero/sql_videoclub_queries)
+APIs REST para cada servicio
+
+Preparado para contenedores (Docker-ready)
+
+Datos SQL de ejemplo para pruebas rápidas
+
+🔗 Ver Repositorio🔗 (https://github.com/Ayvero/Microservices_monopatines)
 
 ---
----
 
-### 👗 Clothing Inventory REST API
+🎬 SQL – Consultas de Videoclub
 
-A RESTful API that allows users to manage a collection of clothing items. Built using **PHP** with a structured **MVC architecture**, this project demonstrates clean separation of concerns and backend logic implementation in a non-Java environment.
+Base de datos en PostgreSQL que simula un videoclub, con más de 20 consultas SQL reales y orientadas a negocio.
 
-**🔧 Technologies:**  
-PHP · MVC Architecture · MySQL · REST · Postman
+📁 Incluye:
 
-**📁 Features:**
-- CRUD operations for clothing items
-- Clean separation of:
-  - Controllers
-  - Models
-  - Views (basic outputs / REST responses)
-- MySQL database integration
-- Structured file system and modular logic
+create_tables.sql
 
-**📌 Highlights:**
-- Shows ability to build backend systems beyond Java
-- Ideal for small inventory or catalog management systems
-- Can be extended with authentication or front-end integration
+insert_data.sql (datos de ejemplo estructurados)
 
-🔗 [View Repository](https://github.com/Ayvero/api_rest)
+queries.sql (consultas comentadas)
 
+views.sql (vistas optimizadas para reportes)
 
+📌 Highlights:
 
+Consultas avanzadas con joins, agregaciones y condiciones
 
+Vistas para reportes de películas más alquiladas, clientes destacados y facturación por distribuidor
 
-<!--
-### 🎬 **Videoteca App**
-App CRUD para administrar una videoteca: películas, empleados, departamentos y distribuidores.  
-🔧 Tecnologías: Java, Javalin, PostgreSQL, HTML/CSS  
-📌 Incluye consultas SQL complejas, vistas, restricciones y documentación profesional.  
-🔗 [Ver repositorio](https://github.com/tuusuario/nombre-repo) | 🌐 [Ver demo](https://tudemo.vercel.app)
+Esquema relacional limpio y normalizado
+
+🔗 Ver Repositorio🔗 (https://github.com/Ayvero/sql_videoclub_queries)
 
 ---
--->
+---
+
+👗 API REST de Inventario de Ropa
+
+API RESTful en PHP con arquitectura MVC para la gestión de un inventario de prendas.
+
+📌 Características:
+
+CRUD de prendas
+
+Separación en Controladores, Modelos y Vistas
+
+Base de datos MySQL integrada
+
+Respuestas REST estructuradas
+
+📌 Highlights:
+
+Ejemplo de backend más allá de Java
+
+Extensible con autenticación o integración frontend
+
+🔗 Ver Repositorio🔗 (https://github.com/Ayvero/api_rest)
+
+
+
+
 ---
 
 ## 📫 Contacto
@@ -172,5 +186,5 @@ App CRUD para administrar una videoteca: películas, empleados, departamentos y 
 ---
 
 <p align="center" style="color:#2b1f51;">
-Thanks for watching my profile! 🙌  
+Gracias por ver mi perfil! 🙌  
 </p>
